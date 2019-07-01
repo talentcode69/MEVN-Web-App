@@ -1,7 +1,6 @@
 # MEVN-Web-App
 
-(https://snyk.io/test/github/wind757/vue-express-mongo-boilerplate/badge.svg)](https://snyk.io/test/github/wind757/vue-express-mongo-boilerplate)
-![Node 10](https://img.shields.io/badge/node-10.x.x-green.svg)
+[![Node 10](https://img.shields.io/badge/node-10.x.x-green.svg)
 ![VueJS 2](https://img.shields.io/badge/vuejs-2.3.x-green.svg)
 ![Webpack 4](https://img.shields.io/badge/webpack-4.17.x-green.svg)
 
